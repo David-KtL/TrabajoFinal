@@ -1,4 +1,4 @@
-# Trabajo Final 
+# IA Test
 ## DavidBarahona
 
 Vamos a crear un clasificador de tipos de carnes que se utiliza en la industria real. Es un ejemplo simplificado, el modelo real utiliza imágenes de mayor resolución y el conjunto de entrenamiento es mucho mayor (requiriendo días para su entrenamiento). Pero para practicar, con esta pequeña muestra nos  sirve.
